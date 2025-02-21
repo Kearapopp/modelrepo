@@ -1,5 +1,5 @@
 body {
-                background: lavender;
+                background: white;
                 font-family: "Lucida Console", "Courier New", monospace;
             }
             
@@ -12,7 +12,7 @@ img {width:80%;}
 img#PSB {width:10%;}
             
 section{
-            background: coral;
+            background: lavender;
             width:90%;
             margin:auto;
             }
