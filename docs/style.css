@@ -9,10 +9,12 @@ figure {width:20%;
             
 img {width:90%;}
             
-img#Timeline {width:10%;}
+img#Timeline {width:100%;}
             
 section{
             background:#9DD9F3;
-            width:90%;
+            width:166%;
             margin:auto;
             }
+
+div.flex { display;flex; }
